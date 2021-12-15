@@ -6,6 +6,6 @@ If you guys want to use my public repository, just clone it. Mostly it's solely 
 
 <p align="right">
 Have an Octotastic day!<br>
-Daffa' Athallah
+- Daffa' Athallah
 </p>
 

@@ -5,7 +5,7 @@ I’m really into Software Developing. At the moment i trying to dive on Laravel
 If you guys want to use my public repository, just clone it. Mostly it's solely just for my college assignment, and if you find any trouble on using it just let me know at daffavcd@gmail.com. Thanks
 
 <p align="right">
-Have an Octotastic day!,<br>
+Have an Octotastic day!<br>
 Daffa' Athallah
 </p>
 

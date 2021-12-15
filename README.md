@@ -1,6 +1,6 @@
-- 👋 Allo, I’m @daffavcd
-- 👀 I’m interested in Software Developing,atm i still try diving on Laravel Framework
-- 🌱 I’m currently 20 years old
+- Alloo, I’m @daffavcd
+- I’m interested in Software Developing,atm i still try diving on Laravel Framework
+- I’m currently 20 years old
 - Thank you for your time reading this even it's just me trying new random features from github, appreciate it :)
 
 <!---

@@ -9,3 +9,13 @@ Have an Octotastic day!<br>
 - Daffa' Athallah
 </p>
 
+---
+
+
+
+### Now Playing 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fi1z0t5q424ypbm7xtj35byrq&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+<br/>
+---
+

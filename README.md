@@ -10,12 +10,7 @@ Have an Octotastic day!<br>
 </p>
 
 ---
-
-
-
-### Now Playing 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fi1z0t5q424ypbm7xtj35byrq&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fi1z0t5q424ypbm7xtj35byrq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=fi1z0t5q424ypbm7xtj35byrq&redirect=true)
 <br/>
 ---
 
